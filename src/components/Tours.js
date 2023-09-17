@@ -2,9 +2,9 @@ import Card from './Card'
 function Tours({tours, removeTour}) {
     return (
         <div className='container'>
-            <div>
+            {/* <div>
                 <h2 className='title'> Plan With Navneet</h2>
-            </div>
+            </div> */}
             
             <div className='cards'>
                 {

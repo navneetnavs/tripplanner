@@ -41,13 +41,13 @@ const data = [
 		image: "https://cdn.thecodehelp.in/Jaisalmer.jpeg",
 		price: "68,595",
 	},
-	{
-		id: 7,
-		name: "Kochi",
-		info: "Kochi is a port city in the Indian state of Kerala, known for its historic connections to trade and commerce. The city is home to several stunning churches, synagogues, and mosques, as well as a rich culinary tradition that blends Indian, Portuguese, and other influences.",
-		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
-		price: "68,595",
-	},
+	// {
+	// 	id: 7,
+	// 	name: "Kerala",
+	// 	info: "Kerala, a state situated on the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country. Named as one of the ten paradises of the world by National Geographic Traveler,[1] Kerala is famous especially for its ecotourism initiatives and beautiful backwaters.[2] Its unique culture and traditions, coupled with its varied demography, have made Kerala one of the most popular tourist destinations in the world.",
+	// 	image: "https://tse3.mm.bing.net/th?id=OIP.rkZG0JT6ASsrapR18RrjGwHaEK&pid=Api&P=0&h=180",
+	// 	price: "35,758",
+	// },
 ];
 
 export default data;
