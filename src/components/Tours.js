@@ -5,6 +5,7 @@ function Tours({tours, removeTour}) {
             <div>
                 <h2 className='title'> Plan With Navneet</h2>
             </div>
+            
             <div className='cards'>
                 {
                     tours.map( (tour) => {
