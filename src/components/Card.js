@@ -34,7 +34,7 @@ function Card({id, image,info,price,name, removeTour})  {
                 Not Interested
             </button>
         </div>
-        
+    
     );
 }
 

@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import data from './data'
 import Tours from "./components/Tours";
-
 const App = () => {
 
   const [tours, setTours] = useState(data);
@@ -27,6 +26,7 @@ const App = () => {
       <Tours tours={tours} removeTour={removeTour}></Tours>
     </div>
   )
+  
 };
 
 export default App;
